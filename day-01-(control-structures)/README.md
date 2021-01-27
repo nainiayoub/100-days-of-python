@@ -13,10 +13,28 @@ _(A number n is perfect if it is equal to the sum of all its divisors <n, for ex
 ## Exercise 3
 Write a program that calculates the factorial of an integer n entered by the user.
 
-## Exercise 4
+## Exercise 5
 Write a program that calculates the greatest common divisor (gcd) of two integers entered by the user (use the while loop).
 
-## Exercise 5
+## Exercise 6
 Write a program that asks the user to type an integer. This one has 5 tries.
 * If the typed character is a 0 we display "won" and stop.
 * If after 5 attempts, the user has not always typed 0, we exit by displaying "lost".
+
+## Exercise 7
+* Write a program for estimating the value of π (3.14159265358979 ...) according to the following two formulas:
+
+<img src="images/formula.png">
+
+## Exercise 8
+Write a program that displays the multiplication table from 1 to 9.
+
+## Exercise 9
+Write a program that displays:
+
+```
+* * * *
+* * *
+* *
+*
+```
