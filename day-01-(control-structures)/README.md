@@ -7,8 +7,9 @@ A set of practice problems solved with Python
 
 ## Exercise 2
 * Write a program that tests whether an integer n (entered by the user) is perfect or not.
-
-_(A number n is perfect if it is equal to the sum of all its divisors <n, for example 6 is perfect because it is the sum of 1, 2 and 3 which are its divisors <6, while 12 is not)._
+```
+(A number n is perfect if it is equal to the sum of all its divisors <n, for example 6 is perfect because it is the sum of 1, 2 and 3 which are its divisors <6, while 12 is not).
+```
 
 ## Exercise 3
 Write a program that calculates the factorial of an integer n entered by the user.
