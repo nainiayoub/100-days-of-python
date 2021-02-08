@@ -24,7 +24,7 @@ Write a program that asks the user to type an integer. This one has 5 tries.
 ## Exercise 7
 * Write a program for estimating the value of π (3.14159265358979 ...) according to the following two formulas:
 
-<img src="images/formula.png">
+<img src="images/formula.PNG">
 
 ## Exercise 8
 Write a program that displays the multiplication table from 1 to 9.
